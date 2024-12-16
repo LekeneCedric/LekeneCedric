@@ -6,21 +6,6 @@
 
 passionate software developer from Cameroon, specializing in Full-Stack software development. Hands-on experience in creating scalable systems, developing applications, and ensuring software quality through rigorous testing.
 
-## 💻 Skills
-- **BackEnd Development**: PHP, TypeScript, Python, Java, C
-- **FrontEnd Development**: TypeScript, HTML/CSS, React, React Native
-- **Containerization/Cloud**: Docker, Kubernetes, AWS
-- **DBMS**: MySQL, PostgreSQL, MongoDB, SQL Server
-- **Platforms/Tools**: PHPStorm, IntelliJ, VSCode, Vim
-- **Craftsmanship Culture**: Clean Code, Clean Architecture, TDD, DDD, Pragmatism
-
-## 📈 GitHub Stats
-![Lékéné Cédric's GitHub stats](https://github-readme-stats.vercel.app/api?username=LekeneCedric&show_icons=true&theme=radical)
-
-## 🚀 Latest Projects
-- **[My Nkap](https://github.com/LekeneCedric/my_nkap)**: A REST API that allows users to manage incomes, expenses, set financial goals, and visualize statistics using PHP, Laravel, TDD, and Hexagonal architecture.
-- **[Memoria](https://github.com/LekeneCedric/memoria)**: A simple mini redis server.
-
 ## 📫 How to reach me
 - Email: [lekenelucprofessionel@gmail.com](mailto:lekenelucprofessionel@gmail.com)
 - Phone: (237) 655-426-861
